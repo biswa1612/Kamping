@@ -8,6 +8,44 @@
 - [Kamping](https://vast-plains-35866.herokuapp.com/)
 ---
 
+## Kamping can be installed with the following steps.
+
+* Install node
+* Install git
+* Install npm
+
+Clone the repository into your personal computer with:
+ 
+```
+git clone 
+```
+```
+cd Kamping
+```
+## Important
+You need to install all the dependencies present in the package-lock.json file.You can do this by-
+
+```
+npm install
+```
+
+After completing all the above mentioned steps you can run the server by the following command:
+
+```
+node app.js
+```
+For Windows,
+```
+ http://localhost:3000
+```
+
+
+For Linux,
+```
+ http://127.0.0.1:3000
+```
+
+
 # Run the Project Locally
     Clone/ fork the repo 
 
