@@ -8,4 +8,14 @@
 - [Kamping](https://vast-plains-35866.herokuapp.com/)
 ---
 
+# Run the Project Locally
+    Clone the repo 
+
+    $ cd Downloads/Kamping/
+    $ npm run dev  OR  $ nodemon app.js
+    
+    // Open https://localhost:3000
+    
+You are good to go
+    
 >keep smiling and work harder
