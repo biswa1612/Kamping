@@ -9,14 +9,18 @@
 ---
 
 # Run the Project Locally
-    Clone the repo 
+    Clone/ fork the repo 
 
     $ cd Downloads/Kamping/
+    
     $ npm install
+    
     $ npm run dev  
+    
     //OR  $ nodemon app.js
     
-    // Open https://localhost:3000
+    
+Open https://localhost:3000
     
 You are good to go
     
