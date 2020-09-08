@@ -12,7 +12,9 @@
     Clone the repo 
 
     $ cd Downloads/Kamping/
-    $ npm run dev  OR  $ nodemon app.js
+    $ npm install
+    $ npm run dev  
+    //OR  $ nodemon app.js
     
     // Open https://localhost:3000
     
